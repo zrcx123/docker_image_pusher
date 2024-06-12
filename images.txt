@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 docker.io/calico/cni:v3.23.3
 python:alpine3.19
+oceanbase/obagent:4.2.0-100000062023080210
