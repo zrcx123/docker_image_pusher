@@ -1,10 +1,7 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-
-docker.io/calico/cni:v3.23.3
-python:alpine3.19
-oceanbase/obagent:4.2.0-100000062023080210
+registry.aliyuncs.com/google_containers/kube-apiserver:v1.23.0
+registry.aliyuncs.com/google_containers/kube-proxy:v1.23.0
+registry.aliyuncs.com/google_containers/kube-scheduler:v1.23.0
+registry.aliyuncs.com/google_containers/kube-controller-manager:v1.23.0
+registry.aliyuncs.com/google_containers/etcd:3.5.1-0
+registry.aliyuncs.com/google_containers/coredns:v1.8.6
+registry.aliyuncs.com/google_containers/pause:3.6
