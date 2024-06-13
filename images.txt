@@ -1,2 +1,1 @@
-oceanbasedev/oceanbase-cloud-native-dev:4.2.1.2-102000042023120514-alpha.1
-oceanbase/oceanbase-cloud-native:4.2.1.3-103000032023122818
+docker.io/library/node:18-alpine
