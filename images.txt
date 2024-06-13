@@ -1,1 +1,1 @@
-prom/alertmanager:v0.27.0
+oceanbase/oceanbase-cloud-native:4.3.0.1-100000242024032211
