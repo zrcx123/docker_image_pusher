@@ -1,1 +1,1 @@
-docker.io/library/node:18-alpine
+prom/prometheus:v2.51.1
