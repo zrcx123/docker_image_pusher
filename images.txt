@@ -1,1 +1,1 @@
-oceanbase/obagent:4.2.1-100000092023101717
+oceanbase/oceanbase-cloud-native:4.2.0.0-101000032023091319
