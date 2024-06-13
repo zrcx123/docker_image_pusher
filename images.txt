@@ -1,11 +1,1 @@
-calico/cni:v3.23.3
-calico/node:v3.23.3
-calico/kube-controllers:v3.23.3
-oceanbase/kube-rbac-proxy:v0.13.1
-oceanbasedev/kube-rbac-proxy:v0.13.1
-rancher/local-path-provisioner:v0.0.24
-openanolis/anolisos:8.8
-golang:1.22
-quay.io/jetstack/cert-manager-cainjector:v1.12.4
-quay.io/jetstack/cert-manager-controller:v1.12.4
-quay.io/jetstack/cert-manager-webhook:v1.12.4
+oceanbase/obagent:4.2.0-100000062023080210
