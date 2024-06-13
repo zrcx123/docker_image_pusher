@@ -1,1 +1,1 @@
-oceanbase/obagent:4.2.0-100000062023080210
+oceanbase/obagent:4.2.1-100000092023101717
