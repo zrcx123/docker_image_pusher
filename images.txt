@@ -1,1 +1,1 @@
-oceanbase/ob-operator:2.2.2
+oceanbase/obproxy-ce:4.2.1.0-11
