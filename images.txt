@@ -1,1 +1,1 @@
-oceanbase/obproxy-ce:4.2.1.0-11
+sudo docker pull tpcorg/hammerdb:mysql
