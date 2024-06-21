@@ -1,1 +1,1 @@
-sudo docker pull tpcorg/hammerdb:mysql
+tpcorg/hammerdb:mysql
