@@ -1,1 +1,1 @@
-tpcorg/hammerdb:mysql
+oceanbase/obproxy-ce:4.2.3.0-3
