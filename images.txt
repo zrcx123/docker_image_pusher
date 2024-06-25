@@ -1,1 +1,1 @@
-oceanbase/oceanbase-cloud-native:4.2.3.1-101000032024061316
+oceanbase/oceanbase-cloud-native:4.2.1.6-106000012024042515
