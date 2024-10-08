@@ -1,1 +1,1 @@
-oceanbase/oceanbase-cloud-native:4.2.1.7-107000162024060611
+docker.io/calico/cni:v3.24.5
