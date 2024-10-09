@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.24.5
+rancher/mirrored-pause:3.6
