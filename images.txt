@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.15
+oceanbase/obagent:4.2.2-100000042024011120
