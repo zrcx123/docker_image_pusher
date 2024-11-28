@@ -1,1 +1,1 @@
-oceanbase/obagent:4.2.2-100000042024011120
+oceanbase/oceanbase-dashboard:0.3.0
