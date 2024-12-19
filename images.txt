@@ -1,1 +1,1 @@
-oceanbase/ob-operator:2.2.0
+docker.io/openanolis/anolisos:8.8
