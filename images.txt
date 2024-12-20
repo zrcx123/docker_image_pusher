@@ -1,1 +1,1 @@
-docker.io/openanolis/anolisos:8.8
+oceanbase/kube-rbac-proxy:v0.13.1
