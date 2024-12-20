@@ -1,1 +1,1 @@
-oceanbase/kube-rbac-proxy:v0.13.1
+oceanbase/oceanbase-cloud-native:4.2.0.0-101000032023091319
