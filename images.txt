@@ -1,1 +1,2 @@
-oceanbase/oceanbase-cloud-native:4.3.3.1-101000012024102216
+oceanbasedev/oceanbase-cn:4.1.0.1-test
+oceanbasedev/oceanbase-cn:4.2.0.0-test
