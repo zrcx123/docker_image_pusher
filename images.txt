@@ -1,2 +1,1 @@
-oceanbasedev/oceanbase-cn:4.1.0.1-test
-oceanbasedev/oceanbase-cn:4.2.0.0-test
+quay.io/oceanbase/oceanbase-dashboard:0.3.3
