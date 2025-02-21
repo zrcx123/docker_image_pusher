@@ -1,1 +1,4 @@
-quay.io/oceanbase/oceanbase-dashboard:0.3.3
+oceanbase/oceanbase-cloud-native:4.3.3.1-101000012024102216
+oceanbase/oceanbase-cloud-native:4.3.4.0-100000162024110717
+oceanbase/oceanbase-cloud-native:4.3.5.0-100000202024123117
+
