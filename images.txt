@@ -1,1 +1,1 @@
-quay.io/busybox/busybox:latest
+busybox:latest
