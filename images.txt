@@ -1,1 +1,1 @@
-docker.io/calico/node:v3.25.1
+docker.io/calico/csi:v3.25.1
