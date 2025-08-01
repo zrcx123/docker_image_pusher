@@ -1,2 +1,1 @@
-docker.io/calico/pod2daemon-flexvol:v3.25.1
-
+docker.io/calico/cni:v3.25.1
