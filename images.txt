@@ -1,1 +1,1 @@
-quay.io/oceanbase/ob-operator:2.3.3
+oceanbase/oceanbase-ce:latest
