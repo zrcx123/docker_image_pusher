@@ -1,1 +1,1 @@
-aliyunfc/alilinux:3
+aliyunlinux/alinux3:latest
