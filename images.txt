@@ -1,1 +1,1 @@
-openanolis/anolisos:23
+rockylinux:9
