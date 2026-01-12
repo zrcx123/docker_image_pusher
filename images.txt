@@ -1,1 +1,1 @@
-kylinos/kylin:v10
+registry.kylinos.cn/kylin/kylin-v10:latest
