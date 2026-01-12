@@ -1,1 +1,1 @@
-aliyunlinux/alinux3:latest
+kylinos/kylin:v10
