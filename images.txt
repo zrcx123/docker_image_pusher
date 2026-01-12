@@ -1,1 +1,1 @@
-oceanbasedev/oceanbase-cn:4.2.1.4-104000052024022918-test
+openanolis/anolisos:8.9
