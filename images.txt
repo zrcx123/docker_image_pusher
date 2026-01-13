@@ -1,1 +1,1 @@
-registry.kylinos.cn/kylin/kylin-v10:latest
+registry.cn-hangzhou.aliyuncs.com/acs/alinux3:latest
