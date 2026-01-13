@@ -1,1 +1,2 @@
-registry.cn-hangzhou.aliyuncs.com/acs/alinux3:latest
+alinux3:latest
+
