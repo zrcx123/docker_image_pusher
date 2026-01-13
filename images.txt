@@ -1,1 +1,1 @@
-openeuler/openeuler:22.03
+openeuler/openeuler:24.03
