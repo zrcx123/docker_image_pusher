@@ -1,1 +1,1 @@
-quay.io/centos/centos:stream9
+debian:10
