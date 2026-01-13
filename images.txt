@@ -1,1 +1,2 @@
-openeuler/openeuler:24.03
+openanolis/anolisos:8.9
+openanolis/anolisos:8.9-x86_64
