@@ -1,2 +1,1 @@
-openanolis/anolisos:8.9
-openanolis/anolisos:8.9-x86_64
+kylinos/kylin:V10
