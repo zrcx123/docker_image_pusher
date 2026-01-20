@@ -1,1 +1,1 @@
-oceanbase/obproxy-ce:4.3.5.0-3
+severalnines/sysbench:latest
