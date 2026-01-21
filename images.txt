@@ -1,1 +1,1 @@
-mahjonp/go-tpc:v1.0.7
+oceanbase/oceanbase-helper:latest
