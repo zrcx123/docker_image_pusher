@@ -1,1 +1,2 @@
-docker.io/library/golang:1.25
+oceanbase/oceanbase-cloud-native:4.2.1.11-111000162025032610
+oceanbase/oceanbase-cloud-native:4.2.5.5-105000032025071717
