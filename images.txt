@@ -1,1 +1,14 @@
 registry.openanolis.cn/openanolis/anolisos:8.9
+openanolis/anolisos:23
+alibaba-cloud-linux-3-registry.cn-hangzhou.cr.aliyuncs.com/alinux3/alinux3
+centos:7
+quay.io/centos/centos:stream9
+rockylinux:9
+debian:12
+debian:13
+ubuntu:20.04
+ubuntu:22.04
+ubuntu:24.04
+openeuler/openeuler:22.03
+openeuler/openeuler:24.03
+macrosan/kylin:v10-sp3
